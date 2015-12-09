@@ -1,6 +1,5 @@
 # Proxy Demo
-Simple Python 2.7 script demonstrating how to implement the Proxy design
-pattern.
+Simple Python 2.7 script demonstrating the Proxy design pattern.
 
 ## How To
 ```
